@@ -11,11 +11,10 @@
      a = """This is a multiline string."""
      You can see it is enclosed within thrice double quotes"""
      print(a)
-# you can notice in result that new line is printed same as it is written
-     This is a multiline string.
-     I am writing this string for demo purpose.
-     You can see it is enclosed within thrice double quotes
 
+     ===> 'This is a multiline string.'
+    you can notice in result that new line is printed same as it is written
+    
 
 # Slicing in string
      You can slice the string by passing its index.
