@@ -4,7 +4,7 @@
     Strings in python are surrounded by either single quotation marks, or double quotation marks.
     'India' is the same as "India"
 
-Create a variable containing STRING
+## Create a variable containing STRING
      a = "India"
      print(a)
      India
