@@ -53,7 +53,7 @@
 
     ===> 'dia'
 
-$ Steps In Slicing
+# Steps In Slicing
      
     Steps decide the direction of printing for sliced index and how many stpes
     Positive step means left to right and negative step means right to left
